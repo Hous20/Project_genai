@@ -95,6 +95,8 @@ streamlit run app.py
 ## Auteurs
 
 - [Hous20](https://github.com/Hous20)
+- [Alphaj110](https://github.com/Alpha110)
+
 
 ## Licence
 
